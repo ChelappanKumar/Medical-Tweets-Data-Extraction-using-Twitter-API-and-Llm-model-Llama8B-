@@ -1,0 +1,7 @@
+tweepy
+pandas
+langchain-community
+langchain
+openpyxl
+apify-client
+langchain_ollama
